@@ -1,12 +1,12 @@
 package com.aprendizado.services;
 
 import java.util.List;
-import java.util.Locale.Category;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.aprendizado.entities.Category;
 import com.aprendizado.repositories.CategoryRepository;
 
 
