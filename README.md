@@ -1,5 +1,5 @@
 # Primeiro_Projeto_Spring_Boot
-Primeiro Projeto com o Spring boot
+Primeiro Projeto com o Spring boot com Banco de Dados Relacional
 
 ![image](https://user-images.githubusercontent.com/83645201/163659208-3a8aa087-b032-4427-bd84-96436684425f.png)
 
